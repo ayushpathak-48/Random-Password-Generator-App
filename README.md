@@ -1,5 +1,6 @@
 #View Demo
 You can view live demo here: https://random-password-generator-ap.netlify.app/
+![Screenshot_2023_02_03_01_04_57_20_a87fd7db6caa850b517aa6fa9d2fcd0e](https://user-images.githubusercontent.com/118837534/216432803-6d2a0d2a-acb1-4ff8-ad05-627e820a758d.jpg)
 
 
 # Getting Started with Create React App
